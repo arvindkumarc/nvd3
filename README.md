@@ -1,3 +1,7 @@
+## Ripped out from novus/nvd3
+
+`npm install nvd3-browserified`
+
 ## NVD3 - A reusable D3 charting library
 
 Inspired by the work of Mike Bostock's [Towards Reusable Charts](http://bost.ocks.org/mike/chart/), and supported by a combined effort of [Novus](http://www.novus.com) and the NVD3 community.
